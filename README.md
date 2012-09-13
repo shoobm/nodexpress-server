@@ -1,4 +1,4 @@
 nodexpress-server
 =================
 
-a 5 line static server for nodejs with express
+a 7 line static server for nodejs with express
